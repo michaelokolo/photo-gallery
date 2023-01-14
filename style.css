@@ -1,0 +1,44 @@
+body{
+    margin:0;
+    padding:0;
+}
+
+header{
+    background-color: black;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.hero-image img{
+    width: 60%;
+    height: 100vh; 
+    
+    
+}
+
+i{
+    color: white;
+}
+
+.arrow-back{
+    display: flex;
+    width: 20%;
+    align-items: center;
+    justify-content: left;
+}
+
+.arrow-front{
+    display: flex;
+    width: 20%;
+    align-items: center;
+    justify-content: right;
+}
+
+i{
+    padding:10px;
+    margin:10px;
+    font-size: 30px;
+    background-color: rgb(43, 42, 42);
+    border-radius: 5px;
+}
