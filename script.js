@@ -34,5 +34,3 @@ arrowLeft.addEventListener('click', () => {
     picture.src = pictures[i]['url'];
     
 })
-
-console.log(i)
